@@ -7,6 +7,7 @@ It was originally built to be an imitation of Facebook's photo progress indicato
 View the included example project for a demonstration.
 
 <img src="./screenshot.png" width="375" height="668">
+<img src="./123.png" width="200" height="200">
 
 ## Installation
 
