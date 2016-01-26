@@ -19,6 +19,8 @@
 		63B7814714E0BBE60009EE1F /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 63B7814514E0BBE60009EE1F /* ViewController.xib */; };
 		63B7815014E0BC780009EE1F /* DACircularProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 63B7814F14E0BC780009EE1F /* DACircularProgressView.m */; };
 		DA8DF49E159BC0B800E477DE /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA8DF49D159BC0B800E477DE /* QuartzCore.framework */; };
+		E10F9AE91C57372D00C1E177 /* tb-kcxq-ys@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E10F9AE71C57372D00C1E177 /* tb-kcxq-ys@2x.png */; };
+		E10F9AEA1C57372D00C1E177 /* tb-kcxq-ys@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E10F9AE81C57372D00C1E177 /* tb-kcxq-ys@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +43,8 @@
 		63B7814E14E0BC780009EE1F /* DACircularProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DACircularProgressView.h; sourceTree = "<group>"; };
 		63B7814F14E0BC780009EE1F /* DACircularProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DACircularProgressView.m; sourceTree = "<group>"; };
 		DA8DF49D159BC0B800E477DE /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		E10F9AE71C57372D00C1E177 /* tb-kcxq-ys@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tb-kcxq-ys@2x.png"; sourceTree = "<group>"; };
+		E10F9AE81C57372D00C1E177 /* tb-kcxq-ys@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tb-kcxq-ys@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 			isa = PBXGroup;
 			children = (
 				6390AF411750275200C3B2F2 /* Default-568h@2x.png */,
+				E10F9AE71C57372D00C1E177 /* tb-kcxq-ys@2x.png */,
+				E10F9AE81C57372D00C1E177 /* tb-kcxq-ys@3x.png */,
 				63B7814D14E0BC770009EE1F /* DACircularProgress */,
 				63B7813614E0BBE60009EE1F /* DACircularProgressExample */,
 				63B7812F14E0BBE60009EE1F /* Frameworks */,
@@ -179,6 +185,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				63B7813B14E0BBE60009EE1F /* InfoPlist.strings in Resources */,
+				E10F9AE91C57372D00C1E177 /* tb-kcxq-ys@2x.png in Resources */,
+				E10F9AEA1C57372D00C1E177 /* tb-kcxq-ys@3x.png in Resources */,
 				63B7814714E0BBE60009EE1F /* ViewController.xib in Resources */,
 				6390AF421750275200C3B2F2 /* Default-568h@2x.png in Resources */,
 			);
